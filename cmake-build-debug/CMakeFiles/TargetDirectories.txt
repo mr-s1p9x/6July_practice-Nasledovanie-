@@ -1,0 +1,3 @@
+/Users/s1pex/Documents/STEP/Cpp/6July_Nasledovanie/cmake-build-debug/CMakeFiles/6July_Nasledovanie.dir
+/Users/s1pex/Documents/STEP/Cpp/6July_Nasledovanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/s1pex/Documents/STEP/Cpp/6July_Nasledovanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
